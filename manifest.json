@@ -1,0 +1,27 @@
+{
+
+  "description": "Download any music from Artlist.io",
+  "manifest_version": 1,
+  "name": "DList",
+  "version": "1.0",
+  "homepage_url": "",
+  "icons": {
+    "48": "icons/icon48.png"
+  },
+  
+    "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+"browser_action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    }
+  }
+
+}
