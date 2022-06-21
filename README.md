@@ -6,7 +6,7 @@ Download any music from the Artlist.io website. This extension was developed for
 
 Installation 
 ----------------------------
-* Download the package from Github
+* Download the release from Github
 * Unzip the downloaded .zip into a folder
 * Open the extension panel on your browser
 * Activate "developer mode"
