@@ -3,7 +3,7 @@
   "description": "Download any music from Artlist.io",
   "manifest_version": 2,
   "name": "DList",
-  "version": "0.0.0.1",
+  "version": "1.0.0",
   "icons": {
     "48": "icons/icon48.png"
   },
