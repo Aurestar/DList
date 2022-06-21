@@ -1,10 +1,11 @@
-#DList
+DList
+=============================
 <img src="/icons/icon128.png"/>
 
 Download any music from Artlist.io
 
-##Installation 
-
+Installation 
+----------------------------
 * Download the package from Github
 * Unzip the downloaded .zip into a folder
 * Open the extension panel on your browser
