@@ -1,26 +1,23 @@
 {
-
-  "description": "Download any music from Artlist.io",
+  "description": "Download any music from Artlist.io, MotionArray.com or Upbeat.io for free!",
   "manifest_version": 2,
   "name": "DList",
   "version": "1.0.0",
   "icons": {
     "48": "icons/icon48.png"
   },
-  
   "background": {
     "scripts": ["background.js"]
   },
-
   "permissions": [
     "activeTab"
   ],
-
-"browser_action": {
+  "browser_action": {
     "default_icon": {
       "16": "icons/icon16.png",
-      "32": "icons/icon32.png"
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
     }
   }
-
 }
